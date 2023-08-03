@@ -9,6 +9,11 @@ profile:
 bootstrap: yarn install
 include:
   - name: JsCoverageInspection
+  - name: HtmlRequiredAltAttribute
+  - name: StandardJS
+  - name: Eslint
+  - name: Stylelint
+  - name: TsLint
 #Enable inspections
 #include:
 #  - name: <SomeEnabledInspectionId>
