@@ -8,7 +8,7 @@ profile:
   name: qodana.starter
 bootstrap: yarn install
 include:
-  - name: Eslint
+  - name: JsCoverageInspection
 #Enable inspections
 #include:
 #  - name: <SomeEnabledInspectionId>
